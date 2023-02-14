@@ -25,6 +25,6 @@
 
 [填写联署地址](https://airtable.com/shrEUTUkbNcZnGGmR)
 
-[Rcode](https://github.com/lianheshengming/lianheshengming.github.io/raw/main/generate1.gif)
+![QRcode](https://github.com/lianheshengming/lianheshengming.github.io/raw/main/generate1.gif)
 
 [讨论组请加入 https://t.me/atakchina](https://t.me/atakchina)
