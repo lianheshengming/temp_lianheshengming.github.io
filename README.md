@@ -33,3 +33,6 @@
 
 我们是一群信仰科学追求民主的青年学生！
 
+[联署进展查看](https://airtable.com/shr3tx8N0iCFbojH1/tbl5WVqTPADEONIn6/viwWOtMyjaOdZMczt?blocks=bipcgKPl9DToD8hl8)
+
+![联署进展预览](https://pikwy.com/web/63eb4e18933bec614d716465)
