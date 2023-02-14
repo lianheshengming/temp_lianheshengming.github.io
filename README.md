@@ -28,3 +28,8 @@
 ![QRcode](https://github.com/lianheshengming/lianheshengming.github.io/raw/main/generate1.gif)
 
 [讨论组请加入 https://t.me/atakchina](https://t.me/atakchina)
+
+# 发起者
+
+我们是一群信仰科学追求民主的青年学生！
+
