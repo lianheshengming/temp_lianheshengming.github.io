@@ -24,4 +24,5 @@
 4. 提供在线填写表格的二维码，方便转发
 
 [填写联署地址](https://airtable.com/shrEUTUkbNcZnGGmR)
+
 [讨论组请加入 https://t.me/atakchina](https://t.me/atakchina)
