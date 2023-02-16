@@ -35,4 +35,4 @@
 
 [联署进展查看](https://airtable.com/shr3tx8N0iCFbojH1/tbl5WVqTPADEONIn6/viwWOtMyjaOdZMczt?blocks=bipcgKPl9DToD8hl8)
 
-![联署进展预览](https://github.com/lianheshengming/lianheshengming.github.io/raw/main/shot.png)
+![联署进展预览](https://github.com/lianheshengming/lianheshengming.github.io/raw/main/shot.jpeg)
