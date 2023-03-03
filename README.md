@@ -17,6 +17,7 @@
 例如： 05c146bd8cbfbf7b924423a5deb2a0c2875ed0cf686fd06d11afa36595ca51f731
 
 * session是一款开源高安全性的通信软件，且无需手机号等任何个人信息，基于区块链安全技术，无法追踪破解，请放心安装使用。
+[简单使用介绍](https://lianheshengming.github.io/session/)
 
 [session安装网站](https://getsession.org/)
 
@@ -36,12 +37,13 @@
 
 [讨论组请加入 https://t.me/atakchina](https://t.me/atakchina)
 
-# session公开群组（测试服务器）
-加入链接：http://group.whitepaperinkorea.com/a4korea?public_key=45674f4135e2dd929279a72e1e73957eed741c7bec00c87b1797ad52c235ea36
+# session公开群组
+加入链接：https://group.whitepaperinkorea.com/game?public_key=45674f4135e2dd929279a72e1e73957eed741c7bec00c87b1797ad52c235ea36
+为了某种程度的逃避审查，我们将群组改名为塔防游戏交流群 加入的链接为：
 
 QR code 二维码:
 
-![logo](https://github.com/lianheshengming/lianheshengming.github.io/raw/main/session.png)
+![logo](https://github.com/lianheshengming/lianheshengming.github.io/raw/main/session/game.png)
 
 # 发起者
 
