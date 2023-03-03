@@ -15,7 +15,9 @@ session ID 是一列字符形成的串码，该串码作为用户的id可以供�
 * 公开群组（没有上限，只有看服务器容量和性能），需要在服务器上建立并管理，服务器需要做好安全防护，但是从个人发出的消息依然是经过洋葱路由，无法追踪的。
 # 如何加入公开群组？
 1. 点软件对话界面的+标识，然后出现界面里选Join community（加入群体）
+![Step 1](https://github.com/lianheshengming/lianheshengming.github.io/raw/main/session/new_con.jpg)
 2. 在输入栏粘贴session群的链接网址或者扫描图片二维码，然后点击join加入即可，稍待片刻就会成功加入公开群组
+![Step 2](https://github.com/lianheshengming/lianheshengming.github.io/raw/main/session/join.png)
 
 # 我们的公开群组
 为了某种程度的逃避审查，我们将群组改名为塔防游戏交流群
@@ -23,3 +25,4 @@ session ID 是一列字符形成的串码，该串码作为用户的id可以供�
 https://group.whitepaperinkorea.com/game?public_key=45674f4135e2dd929279a72e1e73957eed741c7bec00c87b1797ad52c235ea36
 
 加入的QR code图片为：
+![QR code](https://github.com/lianheshengming/lianheshengming.github.io/raw/main/session/game.png)
