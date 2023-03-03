@@ -9,8 +9,8 @@
 * 官方的安装包网址：https://getsession.org/download
 * 在桌面端使用session可能门槛更低，因为几乎不需要考虑平台安全策略，只要拿到安装包文件即可
 * 在移动端使用session的话，苹果手机请使用非中国区的账号，安卓手机请使用谷歌商店或者直接用安装包安装（小米华为手机可能需要将安装文件的末尾apk1更改为apk）
-
-
+![google play商店](https://github.com/lianheshengming/lianheshengming.github.io/raw/main/session/session_play.jpg)
+![apple app商店非中国区](https://github.com/lianheshengming/lianheshengming.github.io/raw/main/session/session_app.jpg)
 # 什么是session ID?
 session ID 是一列字符形成的串码，该串码作为用户的id可以供别的用户来查询加好友
 # session群组有什么特别？
