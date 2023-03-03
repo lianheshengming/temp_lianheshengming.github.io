@@ -17,7 +17,7 @@ session ID 是一列字符形成的串码，该串码作为用户的id可以供�
 1. 点软件对话界面的+标识，然后出现界面里选Join community（加入群体）
 ![Step 1](https://github.com/lianheshengming/lianheshengming.github.io/raw/main/session/new_con.jpg)
 2. 在输入栏粘贴session群的链接网址或者扫描图片二维码，然后点击join加入即可，稍待片刻就会成功加入公开群组
-![Step 2](https://github.com/lianheshengming/lianheshengming.github.io/raw/main/session/join.png)
+![Step 2](https://github.com/lianheshengming/lianheshengming.github.io/raw/main/session/join.jpg)
 
 # 我们的公开群组
 为了某种程度的逃避审查，我们将群组改名为塔防游戏交流群
