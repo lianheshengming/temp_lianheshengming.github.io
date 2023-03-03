@@ -38,8 +38,11 @@
 [讨论组请加入 https://t.me/atakchina](https://t.me/atakchina)
 
 # session公开群组
-加入链接：https://group.whitepaperinkorea.com/game?public_key=45674f4135e2dd929279a72e1e73957eed741c7bec00c87b1797ad52c235ea36
-为了某种程度的逃避审查，我们将群组改名为塔防游戏交流群 加入的链接为：
+加入链接：
+```
+https://group.whitepaperinkorea.com/game?public_key=45674f4135e2dd929279a72e1e73957eed741c7bec00c87b1797ad52c235ea36
+```
+为了某种程度的逃避审查，我们将群组改名为塔防游戏交流群
 
 QR code 二维码:
 
