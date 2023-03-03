@@ -12,7 +12,7 @@
 ![google play商店](https://github.com/lianheshengming/lianheshengming.github.io/raw/main/session/session_play.jpg)
 ![apple app商店非中国区](https://github.com/lianheshengming/lianheshengming.github.io/raw/main/session/session_app.jpg)
 # 什么是session ID?
-session ID 是一列字符形成的串码，该串码作为用户的id可以供别的用户来查询加好友
+session ID 是一列字符形成的串码，该串码作为用户的id可以供别的用户来查询加好友（可以不受手机号限制且不翻墙联系到本人） 例如： 05c146bd8cbfbf7b924423a5deb2a0c2875ed0cf686fd06d11afa36595ca51f731
 # session群组有什么特别？
 * session多人聊天群组分为两种，私有和公开。
 * 私有群组（最多支持100人）任何人可以建立，私密群的消息全程安全加密，还有各类群安全策略保驾护航。
