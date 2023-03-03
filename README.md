@@ -17,6 +17,7 @@
 例如： 05c146bd8cbfbf7b924423a5deb2a0c2875ed0cf686fd06d11afa36595ca51f731
 
 * session是一款开源高安全性的通信软件，且无需手机号等任何个人信息，基于区块链安全技术，无法追踪破解，请放心安装使用。
+
 [简单使用介绍](https://lianheshengming.github.io/session/)
 
 [session安装网站](https://getsession.org/)
