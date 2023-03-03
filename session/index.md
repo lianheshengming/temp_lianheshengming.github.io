@@ -22,7 +22,8 @@ session ID 是一列字符形成的串码，该串码作为用户的id可以供�
 # 我们的公开群组
 为了某种程度的逃避审查，我们将群组改名为塔防游戏交流群
 加入的链接为：
+
 https://group.whitepaperinkorea.com/game?public_key=45674f4135e2dd929279a72e1e73957eed741c7bec00c87b1797ad52c235ea36
 
-加入的QR code图片为：
+加入的QR code图片为：  
 ![QR code](https://github.com/lianheshengming/lianheshengming.github.io/raw/main/session/game.png)
